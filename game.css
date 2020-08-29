@@ -1,0 +1,48 @@
+/* website background */
+body{
+  background-color: #2b2d42;
+}
+/* game-grid size */
+td{
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
+/* jumbotron container */
+.jumbotron{
+  background-color: #edf6f9;
+}
+/* jumbotron title */
+#title{
+  font-family: 'Russo One', sans-serif;
+}
+/* color fill for game-grid */
+#r1c1{
+  background-color:#9d0208;
+}
+#r1c2{
+  background-color:#8d99ae;
+}
+#r1c3{
+  background-color:#9d0208;
+}
+#r2c1{
+  background-color: #8d99ae;
+}
+#r2c2{
+  background-color:#9d0208;
+}
+#r2c3{
+  background-color: #8d99ae;
+}
+#r3c1{
+  background-color:#9d0208;
+}
+#r3c2{
+  background-color: #8d99ae;
+}
+#r3c3{
+  background-color:#9d0208;
+}
